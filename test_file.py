@@ -1,6 +1,6 @@
 import pprint
 
-def printing(text: str)-> None:
+def printing(text: str) -> None:
     pprint.pprint(text)
 
 
