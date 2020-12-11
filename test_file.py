@@ -9,6 +9,8 @@ def printing(text: str) -> None:
 def new_feature():
     pass
 
+def new_feature_2():
+    pass
 if __name__ == "__main__":
     printing('Hello World!')
     if testing_type('str'):
