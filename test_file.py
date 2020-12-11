@@ -1,2 +1,8 @@
+import pprint
+
+def printing(text: str)-> None:
+    pprint.pprint(text)
+
+
 if __name__ == "__main__":
-  print("Hello Hello World!!!")
+    printing('Hello World!')
