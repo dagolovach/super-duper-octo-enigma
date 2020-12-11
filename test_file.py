@@ -6,6 +6,9 @@ def testing_type(var) -> bool:
 def printing(text: str) -> None:
     pprint.pprint(text)
 
+def new_feature():
+    pass
+
 if __name__ == "__main__":
     printing('Hello World!')
     if testing_type('str'):
